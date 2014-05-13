@@ -1,0 +1,3 @@
+git+git://github.com/daniyalzade/django.git@with_hints#egg=Django==1.4.1
+django-tastypie
+dateutil
